@@ -12,6 +12,8 @@ It is in the form of Jupyter Notebook slides with <img src="https://render.githu
  - Good starting point but **but may be not enough**.
  - [Textbooks](textbooks) are required.
 
+## Lectures
+
 **Date**	   | **Topic** 			| **Slides** 	 	| **PDF** 		  | **Code/Notebook** |
 :------------: | :------------: 	| :------------: 	|  :------------: | :------------:
 | 			   |                	|                	|                 |                	
