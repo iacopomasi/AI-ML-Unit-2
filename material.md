@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Course Material & Lectures <a name="material"></a>
+# Course Material & Lectures <a name="material"></a>
 
 ## 📖 Course Material = Jupyter Notebook slides with <img src="https://render.githubusercontent.com/render/math?math=\LaTeX"> math, code, drawings, plots and explanations
 
