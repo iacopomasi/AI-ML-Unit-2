@@ -11,7 +11,7 @@ layout: default
 | :-------------:      |:-------------:
 | Intro, Math Recap    | 5
 |          **Unsupervised Learning**      |
-|   Clustering         | 5           |
+|   Clustering (kmeasn, GMM)         | 5           |
 | Dimensionality Reduction (PCA, Eigenvectors, SVD) | 5 |
 |          **Supervised Learning, Non-parametric**      |
 | Decision trees | 5 |
