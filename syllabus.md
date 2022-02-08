@@ -1,5 +1,5 @@
 ---
-layout: full
+layout: default
 ---
 
 ## Syllabus<a name="syllabus"></a>
