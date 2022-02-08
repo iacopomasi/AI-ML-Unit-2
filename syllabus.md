@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Syllabus<a name="syllabus"></a>
+# Syllabus <a name="syllabus"></a>
 
 ## ℹ️ Provisional course agenda at a glance
 
