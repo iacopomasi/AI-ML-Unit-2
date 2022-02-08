@@ -4,7 +4,28 @@ layout: full
 
 ## Syllabus<a name="syllabus"></a>
 
-Program Outline *(Tentative)*: 
+## ℹ️ Provisional course agenda at a glance
+
+
+| Topic                | Hours       | 
+| :-------------:      |:-------------:
+| Intro, Math Recap    | 5
+|          **Unsupervised Learning**      |
+|   Clustering         | 5           |
+| Dimensionality Reduction (PCA, Eigenvectors, SVD) | 5 |
+|          **Supervised Learning, Non-parametric**      |
+| Decision trees | 5 |
+| Random Forest/Nearest Neigh. | 5 |
+|          **Supervised Learning, Parametric**      |
+| Linear Regression with Least Squares | 5 |
+| Polynomial regression, under/overfitting | 5 |
+| Perceptron, Logistic Regression (LR) | 5 |
+| SVM | 5 |
+| **Deep Learning** |
+| from LR to Neural Nets | 15 |
+| **Total** | 60 |
+
+## Program Outline in Detail *(Tentative)*: 
 
 **Intro:**
  - What is Machine Learning (ML)?
