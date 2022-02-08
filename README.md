@@ -2,7 +2,7 @@
 
 # [AI-ML-Unit-2-2022](https://iacopomasi.github.io/AI-ML-Unit-2-2022/)
 Course Material for Artificial Intelligence and Machine Learning - Unit 2 AA 2021/2022 @ Computer Science Dept, Sapienza
-Bachelor in Applied [Applied Computer Science and Artificial Intelligence](https://acsai.di.uniroma1.it/)
+Bachelor in [Applied Computer Science and Artificial Intelligence](https://acsai.di.uniroma1.it/)
 
 
 ## Course Description
