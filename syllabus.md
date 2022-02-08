@@ -39,3 +39,6 @@ Program Outline *(Tentative)*:
 	- Loss function for classification: softmax+cross-entropy loss, information-theory interpretation.
 
 **Toolsets**: Python, NumPy (matrix manipulation and linear algebra), scikit learn (basic ML), matplotlib (visualization), PyTorch (automatic differentiation and neural nets).
+
+
+**Credits:** This program and material was inspired by the following courses: [Stanford CS299](http://cs229.stanford.edu/syllabus-spring2021.html),  [Doretto CS691A](http://vision.csee.wvu.edu/~doretto/courses/2016-fall-ml/), [Intro to ML Padova](https://en.didattica.unipd.it/off/2018/LT/SC/SC1167/000ZZ/SCP8084699/N0), [Stanford CS231](https://cs231n.github.io/),  [Sapienza DLAI](https://github.com/erodola/DLAI-s2-2021),  [Sapienza ML](https://twiki.di.uniroma1.it/twiki/view/ApprAuto/WebHome)
