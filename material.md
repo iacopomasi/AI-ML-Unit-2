@@ -12,7 +12,8 @@ layout: full
  
 ## 📚 Textbooks 
 
-There is not a single textbook but suggested are:
+There is not a single textbook. Suggested are as follows; The first two are the ones we used.
+For Deep Learning part we use “Dive into Deep Learning”.
 
 | Topic           | Authors       | Book |
 | :-------------: |:-------------:|:-------------:|
