@@ -24,4 +24,5 @@ II year, II semester, ACSAI degree (bachelor)
 * **Calculus:** partial derivatives (cost function, gradients)
 * **Probability:** common distributions; bayes Rule (learn how NOT thinking deterministic)
 * **Statistics:** mean/median/mode; maximum likelihood
+
 *We will review these in the first lectures*
