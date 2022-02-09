@@ -12,6 +12,7 @@ a:hover, a:focus{
 }
 
 header {
+    maring-left : -15%;
     width: 315px;
     -webkit-font-smoothing:subpixel-antialiased
 }
@@ -31,6 +32,10 @@ header li {
   float: left;
   border-right: 1px solid #e0e0e0;
   height: 40px;
+}
+
+section {
+    width: 90%;
 }
 
 p {
