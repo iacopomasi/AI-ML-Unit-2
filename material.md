@@ -21,6 +21,7 @@ Opening the Binder link will reproduce the slides live.
 _Be patient, it takes a while to load Binder. Thanks._
 
 
+[Go back](https://iacopomasi.github.io/AI-ML-Unit-2-2022)
 
 **Date**       | **Topic**          | **Slides**        |  **Github/HTML**   |  **Code/Notebook** 
 :------------: | :------------:     | :------------:    |:------------: |:------------:
