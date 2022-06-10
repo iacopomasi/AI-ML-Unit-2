@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full
 ---
 
 # Course Material & Lectures <a name="material"></a>
