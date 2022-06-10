@@ -1,6 +1,4 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable splitcell/splitcell
 jupyter nbextension enable python-markdown/main
-pwd
-ls
-jupyter trust *.ipynb
+printenv
