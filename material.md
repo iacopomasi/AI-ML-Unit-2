@@ -14,11 +14,11 @@ It is in the form of Jupyter Notebook slides with <img src="https://render.githu
 
 ## Lectures
 
-**Date**	   | **Topic** 			| **Slides** 	 	| **PDF** 		  | **Code/Notebook** |
-:------------: | :------------: 	| :------------: 	|  :------------: | :------------:
-| 			   |                	|                	|                 |                	
-Thu 24 Feb     | Introduction to ML | [slides](#) 	 	|  [pdf](#)       | [ipynb](#)                	 
-| 			   |                	|                	|                 |                	
+**Date**	   | **Topic** 			| **Slides** 	 	|  **Code/Notebook** 
+:------------: | :------------: 	| :------------: 	|:------------:
+| 			   |                	|                	|               	
+ Feb 24/25     | Introduction to ML | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2-2022/HEAD?urlpath=/tree/course/01_introduction/01_introduction.ipynb) 	 	|[ipynb](course/01_introduction/01_introduction.ipynb)                	 
+| 			   |                	|                	|                                	
 
 
 **Note:** I will update the material soon here publicly on the website as soon as I have time to export it correctly from Jupyter notebook. For students attending my class, you should use the private classroom that I shared with you in class.
