@@ -22,3 +22,6 @@ It is in the form of Jupyter Notebook slides with <img src="https://render.githu
 
 
 **Note:** I will update the material soon here publicly on the website as soon as I have time to export it correctly from Jupyter notebook. For students attending my class, you should use the private classroom that I shared with you in class.
+
+
+[Go back][..]
