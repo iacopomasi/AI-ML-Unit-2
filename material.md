@@ -43,7 +43,7 @@ April 7,8     | Supervised Learning, k-NN  | [![Binder](https://mybinder.org/bad
 |              |                    |                   |               |  |
 April 8,21     | Decision Trees, Random Forest | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2-2022/HEAD?urlpath=/tree/course/09_decision_trees/09_decision_trees.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2-2022/blob/main/course/09_decision_trees/09_decision_trees.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](course/09_decision_trees/09_decision_trees.ipynb)
 |              |                    |                   |               |  |
-April 13,14    |  Easter break      |                   |               |  |
+April 13,14    |  _Easter break_    |                   |               |  |
 |              |                    |                   |               |  |
 April 22,28    | Model Selection, Evaluation Metrics | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2-2022/HEAD?urlpath=/tree/course/10_model_selection_crossvalid/10_model_selection_crossvalid.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2-2022/blob/main/course/10_model_selection_crossvalid/10_model_selection_crossvalid.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](course/10_model_selection_crossvalid/10_model_selection_crossvalid.ipynb)
 |              |                    |                   |               |  |
