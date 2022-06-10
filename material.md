@@ -14,6 +14,14 @@ It is in the form of Jupyter Notebook slides with <img src="https://render.githu
 
 ## Lectures
 
+Opening the Binder link will reproduce the slides live.
+- Go forward pressing **Space**
+- Backward with **Shift+Space**.
+
+_Be patient, it takes a while to load Binder. Thanks._
+
+
+
 **Date**       | **Topic**          | **Slides**        |  **Github/HTML**   |  **Code/Notebook** 
 :------------: | :------------:     | :------------:    |:------------: |:------------:
 |              |                    |                   |               |   |
