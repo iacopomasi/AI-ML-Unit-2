@@ -23,3 +23,4 @@ At the end of the exam text, there is a summary of all points. The total number 
 |   **Date**   	| **Exam** 	| **Solution** 	|
 |:------------:	|----------	|--------------	|
 | 23 June 2022 	|  [exam_23062022.pdf](https://github.com/iacopomasi/AI-ML-Unit-2-2022/blob/main/course/16_exam_23062022/exam_23062022.pdf)        	| [exam_23062022_sol.pdf](https://github.com/iacopomasi/AI-ML-Unit-2-2022/blob/main/course/16_exam_23062022/exam_23062022_solution_sketch.pdf)              	|
+| 12 July 2022 	|  [exam_12072022.pdf](https://github.com/iacopomasi/AI-ML-Unit-2-2022/blob/main/course/16_exam_12072022/exam_12072022.pdf)        	|  Te be uploaded 	|
