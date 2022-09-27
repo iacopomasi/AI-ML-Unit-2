@@ -24,9 +24,10 @@ II year, II semester, ACSAI degree (bachelor)
 
 ## Requiriments
 
-* **Linear algebra:** vector/matrix manipulations (geometry in high dimensions)
+* **Linear algebra:** vector/matrix manipulations 
 * **Calculus:** partial derivatives (cost function, gradients)
 * **Probability:** common distributions; bayes Rule (learn how NOT thinking deterministic)
 * **Statistics:** mean/median/mode; maximum likelihood
+* **Python:** basic coding in python
 
 *We will review these in the first lectures*
