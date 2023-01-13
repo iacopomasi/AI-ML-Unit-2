@@ -1,0 +1,57 @@
+AI&ML UNIT 2 exam 12/01/2023
+
+1a) the mu and sigma of a matrix 3x2 where 2 are the feature should be
+mu 2x1 and sigma 2x2. See computation on previous exams and always check
+matrix size.
+
+1b) the points are in 2D. so you have to estimate the same vector mu
+and matrix sigma as in 1a)!  the parameters are a 2x1 vector for mu
+and 2x2 full covariance matrix for sigma (in the general case of full cov.)
+if you are D dimension, mu size is Dx1 and the cov. matrix is DxD.  The
+distance is Mahalanobis distance, which is
+\sqrt((x-mu)^T*sigma^-1*(x-mu)) (if sigma is identity matrix you get
+euclidean distance)
+1c) see my last slides when we solve small exercies.
+2-2x^T*y. You can simple compute the dot product betwen x,y.
+if you have matrices compute matrix to matrix product X@Y in python,
+scale by -2 and add 2.
+d is at minimum 0 at maximum is 2, thus d**2 = 4 maximum.
+
+
+2b) See the exam in July.
+2c) See the exam in July.
+2d) MLE does not assume any prior on the parameters, so you can
+adjust the params as much as you want to fit the data.
+Find the parameters that best "explain" the data with
+no regularization on the parameters.
+
+3a) k = {5,6,7,8,9}
+3b) see the definition on the slides. S_x is the k-nn to x over dataset
+D,if S subset of D, and |S| = k and by taking x'' over S\D it happens that
+
+dist(x, x'') >= max_{for all x' in S} dist(x,x') 
+
+3c)  k-nn has more complex decision boundaries than LINEAR svm. k-nn can separate the space
+non-linearly to classify while LINEAR svm can separate data just with a hyper-plane.
+Very fragmented decision boundary means overfitting.
+
+
+4a) precision = tp/(tp+fp); recall = tp/(#gt)= tp/(tp+fn)
+4b) recall goes to 1 precision goes to 0.
+4c) vertical line happens when machine predicts a box but is a false positive. so
+compare to the previous point in the curve, precision drops since fp increases at 
+denominator yet recall stays the same; climping is when machines predicts a box
+and and is a tp thus increases both precision and recall.
+
+5a) classifies with w^t*x  + b > 0 positive otherwise negative.
+w^t*x is a dot product between vectors.
+The margin is |w^t*x  + b|/||w||_2
+
+5b) Numerically plug equations in 5a) and compute.
+5c) We can simply multiply the gradient_x by the scaling factor \alpha.
+gradient_x of [a*L(x,w,)+b] = a*gradient_x of L(x,w,)+ gradient_x b
+since the gradient_x is a linear operator and gradient_x b is zero.
+
+
+
+
