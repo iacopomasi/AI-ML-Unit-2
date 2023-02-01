@@ -10,7 +10,7 @@ It is in the form of Jupyter Notebook slides with <img src="https://render.githu
 
 - Slides and material will be uploaded before every lecture on Google Classroom and here.
 - Good starting point but **but may be not enough**.
-- [Textbooks](textbooks) are required.
+- <a href="{{ "/" | absolute_url }}AA2122/textbooks.html">Textbooks</a> are required.
 
 ## Lectures
 

@@ -10,7 +10,7 @@ It is in the form of Jupyter Notebook slides with <img src="https://render.githu
 
 - Slides and material will be uploaded before every lecture on Google Classroom and here.
 - Good starting point but **but may be not enough**.
-- [Textbooks](textbooks) are required.
+- <a href="{{ "/" | absolute_url }}AA2223/textbooks.html">Textbooks</a> are required.
 
 ## Lectures
 
@@ -26,7 +26,6 @@ _Be patient, it takes a while to load Binder. Thanks._
 
 ## Material 
 
-[Go back](https://iacopomasi.github.io/AI-ML-Unit-2-2022)
 
 **Date**       | **Topic**          | **Slides**        |  **Github/HTML**   |  **Code/Notebook** 
 :------------: | :------------:     | :------------:    |:------------: |:------------:
@@ -67,4 +66,3 @@ May 18    | Neural Nets, MLP, Backpropagation | [![Binder](https://mybinder.org/
 |              |                    |                   |               |  |
 May 26    | Backpropagation with vectors and Jacobians | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2-2022/HEAD?urlpath=/tree/course/15_backprop_jacobians/15_backprop_jacobians.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2-2022/blob/main/course/15_backprop_jacobians/15_backprop_jacobians.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](course/15_backprop_jacobians/15_backprop_jacobians.ipynb)
 
-[Go back](https://iacopomasi.github.io/AI-ML-Unit-2-2022)
