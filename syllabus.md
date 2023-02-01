@@ -52,7 +52,7 @@ layout: default
  -  **“Deep Learning”**: Overparametrized, non-linear models and differential programming
 	-  Multilayer Perceptron
 	- The backpropagation algorithm
-	- Convolution over regular grids, pooling, activation functions
+	- Activation functions
 	- Analytical gradient and numerical with finite differences
 	- Computational Graph and Automatic Differentiation
 	- Stochastic Gradient Descent (SGD) over mini-batches

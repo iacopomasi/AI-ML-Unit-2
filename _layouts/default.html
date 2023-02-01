@@ -20,6 +20,12 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <br/><br/>
+         <ul class="downloads">
+          <li><a href="{{ "/" | absolute_url }}">Home</a></li>
+          <li><a href="{{ "/" | absolute_url }}syllabus.html">Syllabus</a></li>
+          <li><a href="{{ "/" | absolute_url }}textbooks.html">Textbooks</a></li>
+          </ul>  
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_downloads %}
@@ -29,17 +35,21 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+         <ul class="downloads">
+          <li><a href="{{ "/" | absolute_url }}AA2223/material.html">Material</a></li>
+          <li><a href="{{ "/" | absolute_url }}AA2223/logistics.html">Logistics</a></li>
+          <li><a href="{{ "/" | absolute_url }}AA2223/exams.html">Exams</a></li>
+        </ul>
+
+        <p>AA 2021/2022<p/>
         
          <ul class="downloads">
-          <li><a href="{{ "/" | absolute_url }}">Home</a></li>
-          <li><a href="{{ "/" | absolute_url }}syllabus.html">Syllabus</a></li>
-          <li><a href="{{ "/" | absolute_url }}material.html">Material</a></li>
+          <li><a href="{{ "/" | absolute_url }}AA2122/material.html">Material</a></li>
+          <li><a href="{{ "/" | absolute_url }}AA2122/logistics.html">Logistics</a></li>
+          <li><a href="{{ "/" | absolute_url }}AA2122/exams.html">Exams</a></li>
         </ul>
-         <ul class="downloads">
-          <li><a href="{{ "/" | absolute_url }}exams.html">Exams</a></li>
-          <li><a href="{{ "/" | absolute_url }}logistics.html">Logistics</a></li>
-          <li><a href="{{ "/" | absolute_url }}textbooks.html">Textbooks</a></li>
-        </ul>       
+   
     
 
       </header>
