@@ -22,7 +22,7 @@ _Be patient, it takes a while to load Binder. Thanks._
 
 ## Contributors
 
-- [Tommaso Di Mario](dimario.1942642@studenti.uniroma1.it) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![tomm](https://badgen.net/badge/icon/github?icon=github&label=@tommdim)](https://github.com/tommdim)
+- [Tommaso Di Mario](mailto:dimario.1942642@studenti.uniroma1.it) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![tomm](https://badgen.net/badge/icon/github?icon=github&label=@tommdim)](https://github.com/tommdim)
 
 ## Material 
 
@@ -31,7 +31,10 @@ _Be patient, it takes a while to load Binder. Thanks._
 :------------: | :------------:     | :------------:    |:------------: |:------------:
 |              |                    |                   |               |  |
 | __Introduction__    |                    |                   |               |  |
-Feb 21, 23     | Introduction to ML | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2-2022/HEAD?urlpath=/tree/AA2223/course/01_introduction/01_introduction.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2-2022/blob/main/AA2223/course/01_introduction/01_introduction.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](AA2223/course/01_introduction/01_introduction.ipynb)                  
+Feb 21, 23     | Introduction to ML | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/01_introduction/01_introduction.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/01_introduction/01_introduction.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](AA2223/course/01_introduction/01_introduction.ipynb)                  
 |              |                    |                   |               |  |
-Feb 28, Mar 2     | The geometry of linear maps | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2-2022/HEAD?urlpath=/tree/AA2223/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2-2022/blob/main/AA2223/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](AA2223/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)                   
+Feb 28, Mar 2     | The geometry of linear maps | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](AA2223/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)                   
+|              |                    |                   |               |  |
+| __Unsupervised Learning__    |                    |                   |               |  |
+March 7, 9     | Eigendecomposition, PCA, Intro to 3DMM  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/03_math_recap_eig_pca_3dmm/03_math_recap_eig_pca_3dmm.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/03_math_recap_eig_pca_3dmm/03_math_recap_eig_pca_3dmm.ipynb)  |  [![Download](https://badgen.net/badge/icon/download?icon=terminal&label)](AA2223/course/03_math_recap_eig_pca_3dmm/03_math_recap_eig_pca_3dmm.ipynb)
 |              |                    |                   |               |  |
