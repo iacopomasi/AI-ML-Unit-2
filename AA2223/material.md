@@ -42,3 +42,5 @@ March 9, 14     | PCA high dim  | [![Binder](https://mybinder.org/badge_logo.svg
 |              |                    |                   |               |   
 March 21, 23   | Kmeans  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/05_clustering_kmeans/05_clustering_kmeans.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/05_clustering_kmeans/05_clustering_kmeans.ipynb)  
 |              |                    |                   |               |  
+March 30, April 4   | MLE, GMM  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/06_clustering_gaussian_MLE/06_clustering_gaussian_MLE.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/06_clustering_gaussian_MLE/06_clustering_gaussian_MLE.ipynb)  
+|              |                    |                   |               | 
