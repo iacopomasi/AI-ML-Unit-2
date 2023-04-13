@@ -44,3 +44,5 @@ March 21, 23   | Kmeans  | [![Binder](https://mybinder.org/badge_logo.svg)](http
 |              |                    |                   |               |  
 March 30, April 4   | MLE, GMM  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/06_clustering_gaussian_MLE/06_clustering_gaussian_MLE.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/06_clustering_gaussian_MLE/06_clustering_gaussian_MLE.ipynb)  
 |              |                    |                   |               | 
+April 13, 18   | GMM, density estimator  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/07_clustering_GMM/07_clustering_GMM.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/07_clustering_GMM/07_clustering_GMM.ipynb)  
+|              |                    |                   |               | 
