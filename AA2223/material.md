@@ -24,6 +24,8 @@ _Be patient, it takes a while to load Binder. Thanks._
 
 - [Tommaso Di Mario](mailto:dimario.1942642@studenti.uniroma1.it) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![tomm](https://badgen.net/badge/icon/github?icon=github&label=@tommdim)](https://github.com/tommdim)
 
+<img src="https://github.com/u-siri-ous/AI-ML-Unit-2-github-workflow/blob/main/CONTRIBUTORS.svg">
+
 ## Material 
 
 
