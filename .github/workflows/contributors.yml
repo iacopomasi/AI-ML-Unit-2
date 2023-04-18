@@ -12,6 +12,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           userNameHeight: 19
           avatarSize: 64
+          avatarMargin: 10
           svgPath: CONTRIBUTORS.svg
           itemTemplate: >
             <g transform="translate({{ x }}, {{ y }})">
