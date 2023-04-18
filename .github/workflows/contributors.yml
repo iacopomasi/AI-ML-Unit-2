@@ -10,12 +10,13 @@ jobs:
       - uses: wow-actions/contributors-list@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          userNameHeight: 19
+          userNameHeight: 25
+          avatarSize: 75
           svgPath: CONTRIBUTORS.svg
           itemTemplate: >
             <g transform="translate({{ x }}, {{ y }})">
               <a xlink:href="{{{ url }}}" class="contributor-link" target="_blank" rel="nofollow sponsored" title="{{{ name }}}" id="{{{ name }}}">
                 <image width="{{ width }}" height="{{ height }}" xlink:href="{{{ avatar }}}" />
-                <text x="32" y="74" text-anchor="middle" fill="white" alignment-baseline="middle" font-size="13">{{{ name }}}</text>
+                <text style="font-family:Arial" x="32" y="74" text-anchor="middle" fill="white" alignment-baseline="middle" font-size="15">{{{ name }}}</text>
               </a>
             </g>
