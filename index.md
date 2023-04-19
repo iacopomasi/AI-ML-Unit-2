@@ -33,4 +33,4 @@ II year, II semester, ACSAI degree (bachelor)
 *We will review these in the first lectures*
 
 ## Contributors
-<img src="{{ "/" | absolute_url }}CONTRIBUTORS.svg">
+<img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS.svg">
