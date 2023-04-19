@@ -31,3 +31,6 @@ II year, II semester, ACSAI degree (bachelor)
 * **Python:** basic coding in python
 
 *We will review these in the first lectures*
+
+## Contributors
+<img src="{{ "/" | absolute_url }}main/CONTRIBUTORS.svg">
