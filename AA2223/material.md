@@ -48,3 +48,5 @@ April 13, 18   | GMM, density estimator  | [![Binder](https://mybinder.org/badge
 | __Supervised Learning__    |                    |                   |               | 
 April 18, 20   | KNN  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/08_supervised_learning_knn/08_supervised_learning_knn.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/08_supervised_learning_knn/08_supervised_learning_knn.ipynb)  
 |              |                    |                   |               | 
+April 20, 27   | Decision Trees  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/09_decision_trees/09_decision_trees.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/09_decision_trees/09_decision_trees.ipynb)  
+|              |                    |                   |               | 
