@@ -35,6 +35,7 @@ Feb 21, 23     | Introduction to ML | [![Binder](https://mybinder.org/badge_logo
 Feb 28, Mar 2     | The geometry of linear maps | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)     
 |              |                    |                   |               | 
 | __Unsupervised Learning__    |                    |                   |               | 
+|              |                    |                   |               |
 March 7, 9     | Eigendecomposition, PCA, Intro to 3DMM  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/03_math_recap_eig_pca_3dmm/03_math_recap_eig_pca_3dmm.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/03_math_recap_eig_pca_3dmm/03_math_recap_eig_pca_3dmm.ipynb)  
 |              |                    |                   |               | 
 March 9, 14     | PCA high dim  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/04_pca_svd_high_dim/04_pca_svd_high_dim.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/04_pca_svd_high_dim/04_pca_svd_high_dim.ipynb)  
@@ -45,8 +46,15 @@ March 30, April 4   | MLE, GMM  | [![Binder](https://mybinder.org/badge_logo.svg
 |              |                    |                   |               | 
 April 13, 18   | GMM, density estimator  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/07_clustering_GMM/07_clustering_GMM.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/07_clustering_GMM/07_clustering_GMM.ipynb)  
 |              |                    |                   |               |
-| __Supervised Learning__    |                    |                   |               | 
+| __Supervised Learning, Non-Parametric__    |                    |                   |               | 
+|              |                    |                   |               |
 April 18, 20   | KNN  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/08_supervised_learning_knn/08_supervised_learning_knn.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/08_supervised_learning_knn/08_supervised_learning_knn.ipynb)  
 |              |                    |                   |               | 
 April 20, 27   | Decision Trees  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/09_decision_trees/09_decision_trees.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/09_decision_trees/09_decision_trees.ipynb)  
+|              |                    |                   |               | 
+May 2, 4   | Model Selection and Eval Metrics  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/10_model_selection_crossvalid/10_model_selection_crossvalid.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/10_model_selection_crossvalid/10_model_selection_crossvalid.ipynb)  
+|              |                    |                   |               | 
+| __Supervised Learning, Parametric__    |                    |                   |
+|              |                    |                   |               |
+May 9, 11   | Liner, Polynomial, Ridge Regression  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/11_regression_lsq_poly/11_regression_lsq_poly.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/11_regression_lsq_poly/11_regression_lsq_poly.ipynb)  
 |              |                    |                   |               | 
