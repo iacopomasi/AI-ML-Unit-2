@@ -25,7 +25,10 @@ II year, II semester, ACSAI degree (bachelor)
 ## Contributors
 Every year I ask students attending the class to fix bugs or typos that may find in the slides. Given that the material is shown with a Jupyter Notebook, they can fork the repository, fix the issues and make a pull request. Doing so, students get bonus points for the final exam, up to a maximum bonus. The list below shows all the people that contributed to the repository. Thank you!
 
-<img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS.svg">
+<!-- <img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS.svg"> --> 
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
 ## Requiriments
 
