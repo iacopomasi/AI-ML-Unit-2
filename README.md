@@ -28,6 +28,87 @@ Every year I ask students attending the class to fix bugs or typos that may find
 <!-- <img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS.svg"> --> 
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/iacopomasi">
+            <img src="https://avatars.githubusercontent.com/u/4181279?v=4" width="50;" alt="iacopomasi"/>
+            <br />
+            <sub><b>iacopomasi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/u-siri-ous">
+            <img src="https://avatars.githubusercontent.com/u/45935623?v=4" width="50;" alt="u-siri-ous"/>
+            <br />
+            <sub><b>u-siri-ous</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/PhilHippo">
+            <img src="https://avatars.githubusercontent.com/u/51003235?v=4" width="50;" alt="PhilHippo"/>
+            <br />
+            <sub><b>PhilHippo</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/SchulzKilian">
+            <img src="https://avatars.githubusercontent.com/u/101262821?v=4" width="50;" alt="SchulzKilian"/>
+            <br />
+            <sub><b>SchulzKilian</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/zoematr">
+            <img src="https://avatars.githubusercontent.com/u/104142441?v=4" width="50;" alt="zoematr"/>
+            <br />
+            <sub><b>zoematr</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/rubenciranni">
+            <img src="https://avatars.githubusercontent.com/u/84967802?v=4" width="50;" alt="rubenciranni"/>
+            <br />
+            <sub><b>rubenciranni</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Leonard013">
+            <img src="https://avatars.githubusercontent.com/u/95079472?v=4" width="50;" alt="Leonard013"/>
+            <br />
+            <sub><b>Leonard013</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Loriv3">
+            <img src="https://avatars.githubusercontent.com/u/72151476?v=4" width="50;" alt="Loriv3"/>
+            <br />
+            <sub><b>Loriv3</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/luigi-pizza">
+            <img src="https://avatars.githubusercontent.com/u/100487717?v=4" width="50;" alt="luigi-pizza"/>
+            <br />
+            <sub><b>luigi-pizza</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/tommdim">
+            <img src="https://avatars.githubusercontent.com/u/70432161?v=4" width="50;" alt="tommdim"/>
+            <br />
+            <sub><b>tommdim</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/veronicadign">
+            <img src="https://avatars.githubusercontent.com/u/105428344?v=4" width="50;" alt="veronicadign"/>
+            <br />
+            <sub><b>veronicadign</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 
 ## Requiriments
