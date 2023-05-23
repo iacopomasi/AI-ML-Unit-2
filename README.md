@@ -74,6 +74,13 @@ Every year I ask students attending the class to fix bugs or typos that may find
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/cristinalakasz">
+            <img src="https://avatars.githubusercontent.com/u/82213110?v=4" width="50;" alt="cristinalakasz"/>
+            <br />
+            <sub><b>cristinalakasz</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Leonard013">
             <img src="https://avatars.githubusercontent.com/u/95079472?v=4" width="50;" alt="Leonard013"/>
             <br />
