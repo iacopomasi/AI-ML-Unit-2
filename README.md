@@ -27,7 +27,7 @@ Every year I ask students attending the class to fix bugs or typos that may find
 
 <img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS.svg">
 
-## Requiriments
+## Requirements
 
 * **Linear algebra:** vector/matrix manipulations (geometry in high dimensions)
 * **Calculus:** partial derivatives (cost function, gradients)
