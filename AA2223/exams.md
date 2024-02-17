@@ -26,3 +26,5 @@ For more tests, see previous years <a href="{{ "/" | absolute_url }}AA2122/exams
 |:------------:	|----------	|--------------	|
 | 13 June 2023 	|  [16_exam_13_06_2023_sol.pdf](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/16_exam_13_06_2023/16_exam_13_06_2023_sol.pdf)        
 | 06 July 2023 	|  [17_exam_06_07_2023_sol.pdf](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/17_exam_06_07_2023/17_exam_06_07_2023_sol.pdf)        
+| 14 September 2023 	|  [18_exam_14_09_2023.pdf](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/18_exam_14_09_2023/_AI_ML_2__Sept_14__2023.pdf)        
+| 29 January 2024 	|  [19_exam_29_01_2024.pdf](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/19_exam_29_01_2024/_AI_ML_2__Jan_30__2024.pdf)    
