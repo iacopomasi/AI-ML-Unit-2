@@ -10,7 +10,7 @@ It is in the form of Jupyter Notebook slides with <img src="https://render.githu
 
 - Slides and material will be uploaded before every lecture on Google Classroom and here.
 - Good starting point but **but may be not enough**.
-- <a href="{{ "/" | absolute_url }}AA2223/textbooks.html">Textbooks</a> are required.
+- <a href="{{ "/" | absolute_url }}AA2324/textbooks.html">Textbooks</a> are required.
 
 ## Lectures
 
@@ -26,9 +26,9 @@ _Be patient, it takes a while to load Binder. Thanks._
 ## Material 
 
 
-**Date**       | **Topic**          | **Slides**        |  **Github/HTML**  
+**Date**       | **Topic**          | **Slides**        |  **Github Folder**  
 :------------: | :------------:     | :------------:    |:------------: 
 |              |                    |                   |               | 
 | __Introduction__    |                    |                   |               |  
-Feb 27, 29     | Introduction to ML | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2223/course/01_introduction/01_introduction.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2223/course/01_introduction/01_introduction.ipynb)  |  
+Feb 27, 29     | Introduction to ML | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2324/course/01_introduction/01_introduction.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2324/course/01_introduction/)  |  
 |              |                    |                   |               | 
