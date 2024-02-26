@@ -13,7 +13,7 @@ jobs:
           userNameHeight: 19
           avatarSize: 64
           avatarMargin: 10
-          svgPath: CONTRIBUTORS.svg
+          svgPath: CONTRIBUTORS_AA2324.svg
           itemTemplate: >
             <g transform="translate({{ x }}, {{ y }})">
               <a xlink:href="{{{ url }}}" class="contributor-link" target="_blank" rel="nofollow sponsored" title="{{{ name }}}" id="{{{ name }}}">

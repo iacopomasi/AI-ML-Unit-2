@@ -21,7 +21,7 @@ Opening the Binder link will reproduce the slides live.
 _Be patient, it takes a while to load Binder. Thanks._
 
 ## Contributors
-<img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS.svg">
+<img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS_AA2223.svg">
 
 ## Material 
 

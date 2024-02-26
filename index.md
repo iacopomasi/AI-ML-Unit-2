@@ -1,7 +1,7 @@
 <img src='https://www.di.uniroma1.it/sites/all/themes/sapienza_bootstrap/logo.png' width="200"/> 
 
-# [AI-ML-Unit-2-2023](https://iacopomasi.github.io/AI-ML-Unit-2/)
-Course Material for Artificial Intelligence and Machine Learning - Unit 2 AA 2022/2023 @ Computer Science Dept, Sapienza
+# [AI-ML-Unit-2-2024](https://iacopomasi.github.io/AI-ML-Unit-2/)
+Course Material for Artificial Intelligence and Machine Learning - Unit 2 AA 2023/2024 @ Computer Science Dept, Sapienza
 Bachelor in [Applied Computer Science and Artificial Intelligence](https://acsai.di.uniroma1.it/)
 
 
@@ -22,10 +22,11 @@ II year, II semester, ACSAI degree (bachelor)
 - Develop **critical thinking**/raise next generation of **scientists**
 - Show a few **cool, practical applications**
 
-## Contributors
+## Contributors 
 Every year I ask students attending the class to fix bugs or typos that may find in the slides. Given that the material is shown with a Jupyter Notebook, they can fork the repository, fix the issues and make a pull request. Doing so, students get bonus points for the final exam, up to a maximum bonus. The list below shows all the people that contributed to the repository. Thank you!
 
-<img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS.svg">
+### AA2223
+<img src="https://raw.githubusercontent.com/iacopomasi/AI-ML-Unit-2/main/CONTRIBUTORS_AA2223.svg">
 
 ## Requiriments
 
