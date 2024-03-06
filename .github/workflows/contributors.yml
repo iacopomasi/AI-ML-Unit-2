@@ -13,6 +13,7 @@ jobs:
           userNameHeight: 19
           avatarSize: 64
           avatarMargin: 10
+          excludeUsers: Pikarz PhilHippo SchulzKilian leozzzoo zoematr gabrimatx veronicadign RoxyDiya cristinalakasz luigi-pizza rubenciranni Leonard013 Loriv3 Andrea-Salinetti eelse0 tommdim
           svgPath: CONTRIBUTORS_AA2324.svg
           itemTemplate: >
             <g transform="translate({{ x }}, {{ y }})">
