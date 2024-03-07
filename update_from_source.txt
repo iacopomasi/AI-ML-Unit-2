@@ -1,0 +1,15 @@
+Add the upstream remote (to do ONLY ONCE):
+	cd /path/to/your/repository
+	git remote add upstream https://github.com/original-owner/repository.git
+
+Fetch changes from upstream:
+	git fetch upstream
+
+Merge changes:
+	/* Use 'main' or 'master' based on your branch name */
+	git merge upstream/main
+
+Pull changes:
+	/* Alternatively, you can use 'git pull' to fetch and merge changes in one step */
+	git pull upstream main
+
