@@ -7,7 +7,7 @@ Bachelor in [Applied Computer Science and Artificial Intelligence](https://acsai
 
 ## Course Description
 
-Taught in English 🇺🇸
+Taught in English  🇺🇸 
 
 II year, II semester, ACSAI degree (bachelor)
 
