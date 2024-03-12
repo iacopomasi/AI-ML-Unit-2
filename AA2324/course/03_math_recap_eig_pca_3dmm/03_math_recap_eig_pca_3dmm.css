@@ -1,0 +1,90 @@
+/* when setting overlay,
+ * (see metadata in notebook)
+ *
+ * it's your responsability to put all the pieces where you want
+ * even in the middle if that was what you wanted
+ *
+ */
+
+div.myheader {
+    position: right;
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: large;
+}
+
+.myheader img {
+    float: right;
+    width: 200px;
+}
+
+
+div.myfooter {
+    position: absolute;
+    background: red;
+    font-size: 120%;
+    right: 10%;
+}
+
+div.cell.selected:before, div.cell.selected.jupyter-soft-selected:before{
+
+    background: #812432;
+}
+
+div.cell.selected, div.cell.selected.jupyter-soft-selected {
+    border: 0px;
+}
+
+
+/*
+RISE
+*/
+.rise-enabled {
+    background-color: #ffffff !important;
+    border-top: 0px #812432 solid;
+    border-bottom: 0px #812432 solid;
+}
+
+.rise-enabled .chalkboard-button i {
+    display: block !important;
+    bottom: 0em !important;
+    font-size: .8em !important;
+    color: #727272 !important;
+}
+
+.rise-enabled .reveal .progress span {
+    background: #812432;
+}
+.question {
+    color: #008;   
+}
+
+.your_turn {
+    color: #e08414;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.rendered_html h1 {
+    color: #812432;
+}
+
+.fa-4x {
+    font-size: 2em;
+}
+
+.rendered_html h2:first-child {
+    margin-top: -0.056em;
+}
+
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+    font-size: 95%;
+}
+
+.container.slides .celltoolbar, .container.slides .hide-in-slideshow {
+    display: None ! important;
+}
+
+.reveal section img {
+    margin: auto;
+}
