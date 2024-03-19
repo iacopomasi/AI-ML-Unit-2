@@ -32,3 +32,8 @@ _Be patient, it takes a while to load Binder. Thanks._
 | __Introduction__    |                    |                   |               |  
 Feb 27, 29     | Introduction to ML | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2324/course/01_introduction/01_introduction.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2324/course/01_introduction/)  |  
 |              |                    |                   |               | 
+Mar 5, 7     | The geometry of linear maps | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2324/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2324/course/02_math_recap_linear_algebra/02_math_recap_linear_algebra.ipynb)     
+|              |                    |                   |               | 
+| __Unsupervised Learning__    |                    |                   |               | 
+|              |                    |                   |               |
+March 12, 19     | Eigendecomposition, PCA, Intro to 3DMM  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iacopomasi/AI-ML-Unit-2/HEAD?urlpath=/tree/AA2324/course/03_math_recap_eig_pca_3dmm/03_math_recap_eig_pca_3dmm.ipynb)       | [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/iacopomasi/AI-ML-Unit-2/blob/main/AA2324/course/03_math_recap_eig_pca_3dmm/03_math_recap_eig_pca_3dmm.ipynb)  
