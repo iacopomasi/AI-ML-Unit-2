@@ -25,4 +25,4 @@ _Be patient, it takes a while to load Binder. Thanks._
 
 ## Material 
 
-For updated materiale please see <a href="{{ "/" | absolute_url }}AA2324/course/">this github page</a>. You can play each `.ipynb` file with https://nbviewer.org/
+For updated materiale please see <a href="https://github.com/iacopomasi/AI-ML-Unit-2/tree/main/AA2324/course">this github page</a>. You can play each `.ipynb` file with [https://nbviewer.org/](https://nbviewer.org/)
