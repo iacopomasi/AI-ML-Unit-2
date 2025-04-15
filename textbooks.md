@@ -16,6 +16,7 @@ For Deep Learning part we use “Dive into Deep Learning”.
 | Math for ML      | Deisenroth, Faisal, Ong |  **[“Mathematics for Machine Learning", Cambridge University Press, 2021](https://mml-book.github.io/)**     |
 | Deep Learning   | Ian Goodfellow and Yoshua Bengio and Aaron Courville | **[“Deep Learning”, MIT Press 2016](https://deeplearningbook.org/)**   |
 | Deep Learning   | Ston Zhang, Zack C. Lipton,  Mu Li, Alex J. Smola | **[“Dive into Deep Learning”](https://d2l.ai/)**  |
+| Deep Learning   | Simone Scardapane (from Sapienza!) | **[“Alice’s Adventures in a differentiable wonderlandPermalink”](https://www.sscardapane.it/alice-book/)**  |
 
 **You can find online most of these or part of them.**
 - The course is inspired and follows [CS229 by Stanford](http://cs229.stanford.edu/syllabus-summer2020.html) 
