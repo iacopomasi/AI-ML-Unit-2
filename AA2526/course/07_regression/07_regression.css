@@ -1,0 +1,120 @@
+/* when setting overlay,
+ * (see metadata in notebook)
+ *
+ * it's your responsability to put all the pieces where you want
+ * even in the middle if that was what you wanted
+ *
+ */
+
+.reveal .jp-RenderedHTMLCommon a:link {
+    color: #812432 !important;
+}
+
+/* Add a hover effect while you're at it! */
+.reveal .jp-RenderedHTMLCommon a:hover {
+    color: #cc0000 !important;
+    text-decoration: underline;
+}
+
+
+div.myheader {
+    margin-top: 0.5%;
+    margin-left: 1%;
+    font-size: large;
+}
+
+.myheader img {
+    float: right;
+    width: 5%;
+}
+
+
+div.myfooter {
+    position: absolute;
+    background: red;
+    font-size: 120%;
+    right: 10%;
+}
+
+div.cell.selected:before, div.cell.selected.jupyter-soft-selected:before{
+
+    background: #812432;
+}
+
+div.cell.selected, div.cell.selected.jupyter-soft-selected {
+    border: 0px;
+}
+
+
+/*
+RISE
+*/
+.rise-enabled {
+    background-color: #ffffff !important;
+    border-top: 0px #812432 solid;
+    border-bottom: 0px #812432 solid;
+}
+
+.rise-enabled .chalkboard-button i {
+    display: block !important;
+    bottom: 0em !important;
+    font-size: .8em !important;
+    color: #727272 !important;
+}
+
+.rise-enabled .reveal .progress span {
+    background: #812432;
+}
+.question {
+    color: #008;   
+}
+
+.your_turn {
+    color: #e08414;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Titles (H1–H3) */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.rendered_html h1,
+.rendered_html h2,
+.rendered_html h3 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #812432;          /* your existing title color */
+  letter-spacing: 0.5px;   /* optional, improves readability */
+  text-shadow: 2px 2px 2px #E9E9E9;
+}
+
+/* Body text */
+.reveal,
+.rendered_html {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+}
+.fa-4x {
+    font-size: 2em;
+}
+
+.rendered_html h2:first-child {
+    margin-top: -0.056em;
+}
+
+.rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
+    font-size: 95%;
+}
+
+.container.slides .celltoolbar, .container.slides .hide-in-slideshow {
+    display: None ! important;
+}
+
+.callout { border-left: 5px solid; padding: 8px 12px; border-radius: 6px; margin: 10px 0; }
+.note { border-color: #007acc; background: #f0f8ff; }
+.tip { border-color: #009933; background: #f2fff2; }
+.warning { border-color: #cc3300; background: #fff2f2; }
+.important { border-color: #e6ac00; background: #fff8e1; }
+

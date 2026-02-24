@@ -1,7 +1,10 @@
-<img src='https://www.di.uniroma1.it/sites/all/themes/sapienza_bootstrap/logo.png' width="200"/> 
+---
+layout: default
+---
 
-# [AI-ML-Unit-2-2024](https://iacopomasi.github.io/AI-ML-Unit-2/)
-Course Material for Artificial Intelligence and Machine Learning - Unit 2 AA 2024/2025 @ Computer Science Dept, Sapienza
+
+# [AI-ML-Unit-2](https://iacopomasi.github.io/AI-ML-Unit-2/)
+Course Material for Artificial Intelligence and Machine Learning - Unit 2 @ Computer Science Dept, Sapienza
 Bachelor in [Applied Computer Science and Artificial Intelligence](https://acsai.di.uniroma1.it/)
 
 

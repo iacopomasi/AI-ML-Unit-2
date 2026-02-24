@@ -1,0 +1,10 @@
+.callout {
+  border-left: 5px solid;
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin: 10px 0;
+}
+.note { border-color: #007acc; background: #f0f8ff; }
+.tip { border-color: #009933; background: #f2fff2; }
+.warning { border-color: #cc3300; background: #fff2f2; }
+.important { border-color: #e6ac00; background: #fff8e1; }
