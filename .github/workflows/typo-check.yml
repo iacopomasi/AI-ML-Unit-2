@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - typo-action # Temporary test, DELETE ME
   pull_request:
     branches:
       - main
