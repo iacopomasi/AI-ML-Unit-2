@@ -1,0 +1,22 @@
+[files]
+extend-exclude = [
+    "*.svg",
+    "*.html", # Generated from .ipynb files, so no need to check them
+    "AA2324/course/ML.md", # Completely Italian
+]
+
+[default.extend-words]
+arange = "arange"   # NumPy
+ndarray = "ndarray" # NumPy
+numpy = "numpy"     # NumPy
+pandas = "pandas"   # pandas
+scipy = "scipy"     # scipy
+sklearn = "sklearn" # sklearn
+# Abbreviations and technical 
+ND = "ND"        # N-dimensional
+Thr = "Thr"     # Thursday
+fpr = "fpr"     # False Positive Rate
+align = "align" # HTML align
+HPE = "HPE"     # Hewlett Packard Enterprise
+# Common misspellings
+splitted = "splitted" # Informal past tense of split

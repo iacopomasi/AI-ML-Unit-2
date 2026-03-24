@@ -1,0 +1,28 @@
+name: Spell Check
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+env:
+  CLICOLOR: 1
+
+jobs:
+  spelling:
+    name: Spell Check with Typos
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Actions Repository
+      uses: actions/checkout@v5
+    - name: Setup Python
+      uses: actions/setup-python@v6.2.0
+    - name: Strip notebook outputs
+      run: python .github/scripts/strip_notebook_outputs.py
+    - name: Spell Check Repo
+      uses: crate-ci/typos@v1.44.0
+      with:
+        config: .github/typos.toml
