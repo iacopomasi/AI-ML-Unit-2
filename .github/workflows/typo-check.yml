@@ -16,6 +16,9 @@ jobs:
   spelling:
     name: Spell Check with Typos
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
     steps:
     - name: Checkout Actions Repository
       uses: actions/checkout@v5
@@ -26,4 +29,10 @@ jobs:
     - name: Spell Check Repo
       uses: crate-ci/typos@v1.44.0
       with:
+        write_changes: true
         config: .github/typos.toml
+    - name: Comment on PR
+      if: github.event_name == 'pull_request'
+      uses: getsentry/action-git-diff-suggestions@main
+      with:
+        message: "Typos found in the above files"
