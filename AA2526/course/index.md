@@ -16,7 +16,7 @@ title: AI & ML - Unit 2
 | 03 | 👨🏼‍🏫 Eigendecomposition, PCA, 3DMM |  [![Open Collab](https://img.shields.io/badge/slides-here-red)](03_math_recap_eig_pca_3dmm/03_math_recap_eig_pca_3dmm.slides.html) |
 | 04 | 👨🏼‍🏫 SVD in high dimension | [![Open Collab](https://img.shields.io/badge/slides-here-red)](04_pca_svd_high_dim/04_pca_svd_high_dim.slides.html) |
 | - |  💻 SVD, PCA, Linear Generative Model | [![Open Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/svd-gen-mod)|
-| 05 | 👨🏼‍🏫 Clustering, K-means|  [![Open Collab](https://img.shields.io/badge/slides-here-red)](06_clustering_GMM/06_clustering_GMM.slides.html) |
+| 05 | 👨🏼‍🏫 Clustering, K-means|  [![Open Collab](https://img.shields.io/badge/slides-here-red)](05_clustering_kmeans/05_clustering_kmeans.slides.html) |
 | 06 | 👨🏼‍🏫 Clustering, Gaussian Mixture Models|  [![Open Collab](https://img.shields.io/badge/slides-here-red)](06_clustering_GMM/06_clustering_GMM.slides.html) |
 | --- | --- | --- |
 | | **Supervised Learning** | |
